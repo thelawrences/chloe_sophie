@@ -1,0 +1,12 @@
+# Site settings
+title: Chloe and Sophie
+email: neil@thelawrences.net
+description: > # this means to ignore newlines until "baseurl:"
+  Old site from when Chloe and Sophie were born.
+baseurl: "chloe_sophie" # the subpath of your site, e.g. /blog/
+url: "http://thelawrences.github.io" # the base hostname & protocol for your site
+twitter_username: lawrennd
+github_username:  thelawrences
+
+# Build settings
+markdown: kramdown
